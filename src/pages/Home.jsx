@@ -1,6 +1,6 @@
 import { RiWallet3Line } from "@remixicon/react";
 import Container from "../components/atoms/Container";
-import CardBudget from "../components/molecules/Cardbudget";
+import CardBudget from "../components/molecules/CardBudget";
 import CardIncome from "../components/molecules/CardIncome";
 import CardSummary from "../components/molecules/CardSummary";
 import Divider from "../components/atoms/Divider";
