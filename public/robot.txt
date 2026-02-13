@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://domainlu.com/sitemap.xml
+Sitemap: https://budget-planner-tmsdna.vercel.app/sitemap.xml
